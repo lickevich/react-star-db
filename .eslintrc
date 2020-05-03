@@ -16,6 +16,9 @@
         "endOfLine": "auto",
         "singleQuote": true
       }
-    ]
+    ],
+    "no-console": 1,
+    "no-return-await": 0,
+    "no-underscore-dangle": 0
   }
 }
